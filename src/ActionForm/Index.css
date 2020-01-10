@@ -1,0 +1,32 @@
+.button1{
+    background-color: red;
+}
+
+.button2{
+    background-color: gray;
+}
+
+.childrenInputs{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100px;
+}
+
+.inputs .input1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 0 0 10px 0;
+}
+
+.form{
+   
+    background-color: honeydew;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
